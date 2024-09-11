@@ -1,0 +1,38 @@
+html {
+  background-color: rgb(236, 186, 220);
+  }
+
+h1 {
+  margin: 20px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(22, 67, 163);
+  border-radius: 10px;
+  color: rgb(19, 33, 5);
+  text-decoration: none;
+  padding: 17px;
+  display: block;
+  text-align: center;
+}
+
+p1 {
+  font-size: 43px;
+  text-align: left;
+  margin: 25px;
+  padding: 20px;
+  color: blueviolet;
+}
+
+p2 {
+  font-size: 43px;
+  text-align: right;
+  padding: 20px;
+  color: rgb(64, 70, 165);
+}
+img {
+  width: 500px;
+  padding: 65px;
+  display: block;
+  margin: 0 auto;
+}

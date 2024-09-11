@@ -1,0 +1,26 @@
+h1{
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(22, 67, 163);
+  border-radius: 10px;
+  color: rgb(19, 33, 5);
+  text-decoration: none;
+  padding: 17px;
+  display: block;
+  text-align: center;
+}
+
+p3 {
+  font-size: 25px;
+}
+main {
+  background-color: rgb(236, 186, 220);
+}
+img {
+  width: 50px;
+  
+}
+  
+html {
+  background-color: rgb(236, 186, 220);
+  }

@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 0;
+  background-color: #f9cef6;
+}
+header {
+  background-color: #db7cb5;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+  margin: 0px;
+  font-size: 35px;
+}
+main {
+  margin: 20px;
+  padding: 10px;
+}
+
+.navbar ul{
+  list-style-type: none;
+  background-color: #305886;
+  padding: 0px;
+  margin: 0px;
+  font-size: 17px;
+  overflow: hidden;
+}
+
+.navbar a{
+  color: white;
+  text-decoration: none;
+  padding: 17px;
+  display: block;
+  text-align: center;
+}
+.navbar a:hover{
+  background-color: #254365;
+}
+
+.navbar li{
+  float: left;
+}
+
+main {
+  background-color: #f9cef6;
+}
+
+html {
+background-color: #f9cef6;
+}
+
+section {
+  text-align: center;
+  font-size: larger;
+}
+
+button {
+  font-size: 20px;
+  background:linear-gradient(90deg, rgb(210, 127, 127), rgb(243, 183, 72), Yellow, rgb(114, 218, 114), rgb(133, 133, 228), rgb(160, 101, 202),rgb(231, 134, 231));
+  width:100px;
+  height:70px;
+  color: rgb(0, 0, 0);
+  border-radius: 25px;
+  margin: 50px;
+  cursor: pointer;
+  transition: all 
+  \4s;
+}
+
+button:hover {
+  background:linear-gradient(90deg, rgb(164, 100, 100), rgb(183, 138, 54), rgb(201, 201, 1), rgb(85, 163, 85), rgb(102, 102, 174), rgb(115, 73, 145),rgb(179, 104, 179));
+  transition: all 4s;
+}
